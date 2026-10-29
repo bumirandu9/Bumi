@@ -1,0 +1,15 @@
+{
+  "name": "bacabuku-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline-first personal EPUB/PDF library and reader for Android",
+  "scripts": {"start": "vite --host 0.0.0.0", "build": "vite build"},
+  "dependencies": {
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/android": "^7.4.3",
+    "epubjs": "^0.3.93",
+    "idb": "^8.0.3",
+    "pdfjs-dist": "^4.10.38"
+  },
+  "devDependencies": {"@capacitor/cli": "^7.4.3", "vite": "^6.4.1"}
+}

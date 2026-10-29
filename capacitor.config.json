@@ -1,0 +1,7 @@
+{
+  "appId": "id.agung.bacabuku",
+  "appName": "BacaBuku",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": { "allowMixedContent": false }
+}
